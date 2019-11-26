@@ -23,4 +23,4 @@ Continued development under RN 0.56+
 [react-native-image-capinsets](https://github.com/madsleejensen/react-native-image-capinsets)
 package.
 
-Forked from [react-native-imagecapinsets]https://github.com/itrabbit/react-native-imagecapinsets
+Forked from [react-native-imagecapinsets](https://github.com/itrabbit/react-native-imagecapinsets)
