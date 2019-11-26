@@ -1,9 +1,9 @@
 {
-  "name": "rn-imagecapinsets",
+  "name": "react-native-use-imagecapinsets",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/itrabbit/react-native-imagecapinsets.git"
+    "url": "https://github.com/AricWu/react-native-imagecapinsets.git"
   },
   "version": "0.0.6",
   "description": "Support Image capInsets for Android",
@@ -11,7 +11,7 @@
     "name": "IT Rabbit"
   },
   "license": "MIT",
-  "homepage": "https://github.com/itrabbit/react-native-imagecapinsets",
+  "homepage": "https://github.com/AricWu/react-native-imagecapinsets",
   "keywords": [
     "capInsets",
     "9-patch",
